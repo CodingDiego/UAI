@@ -1,0 +1,92 @@
+1. Enumere y explique los aspectos más relevantes que hacen que un software de gran magnitud sea complejo.
+2. ¿Cuáles son los cinco atributos de un sistema complejo?
+3. ¿Cuáles son las dos jerarquías más importantes que consideramos en la orientación a
+objetos para sistemas complejos?
+4. ¿Con qué podemos enfrentar a la complejidad para obtener partes cada vez más pequeñas
+y simplificadas del dominio del problema?
+5. ¿Cuáles son las dos formas de descomposición más conocidas?
+6. ¿Explique en qué se diferencia la descomposición algorítmica y la orientada a objetos?
+7. ¿Qué rol cumple la abstracción en la orientación a objetos?
+8. ¿Qué rol cumple la jerarquía en la orientación a objetos?
+9. ¿Consideraría Ud. al diseño orientado a objetos un desarrollo evolutivo o revolucionario?
+Justifique.
+10. ¿Cuántos y cuáles son los modelos básicos que se manejan en el diseño orientado a objetos?
+11. ¿Qué es la programación orientada a objetos?
+12. ¿Qué es el diseño orientado a objetos?
+13. ¿Qué es el análisis orientado a objetos?
+14. ¿Cuáles son los elementos fundamentales en el modelo de objetos?
+15. ¿Cuáles son los elementos secundarios del modelo de objetos?
+16. Explique el significado de la abstracción.
+17. Explique el significado del encapsulamiento.
+18. Explique el significado de la modularidad.
+19. Explique el significado de la jerarquía.
+20. Explique el significado de la tipificación.
+21. Explique el significado de la concurrencia.
+22. Explique el significado de la persistencia.
+23. ¿Cómo se denotan las características esenciales de un objeto que lo distinguen de todos
+los demás tipos de objetos y proporciona así fronteras conceptuales nítidamente definidas
+respecto a la perspectiva del observador?
+24. ¿A qué denominamos un objeto cliente?
+25. ¿A qué denominamos un objeto servidor?
+26. ¿A qué denomina Meyer el modelo contractual de programación?
+27. ¿Qué establece un contrato entre objetos?
+28. ¿Cómo se denomina a las formas en que un objeto puede actuar y/o reaccionar, constituyendo
+estas formas la visión externa completa, estática y dinámica de la abstracción?
+29. ¿Cómo se denomina al conjunto completo de operaciones que puede realizar un cliente
+sobre un objeto, junto con las formas de invocación u órdenes que admite?
+30. ¿A qué nos referimos cuando decimos que un concepto central de la idea de abstracción
+es el de invariancia?
+----------------------------------
+1. Dimension, Cantidad de trabajadores, la complejidad del dominio del problema, la de gestionar un proyecto de desarrollo de software, la no estandarizacion de los componentes de software, y la complejidad resultante del cambio dinamico introducido por las constantes modificaciones en  el dominio del problema y la tecnologia.
+
+2.La complejidad con forma de jerarquia usualmente. Eleccion sobre qie componentes son primitivos (queda en gran medida a decision del observador). Enlaces internor o interconexiones (Suelen ser mas fuertes que los enlaces entre componentes) separando la estructura interna de los componentes. Normalmente estan compuestos de pocas clases diferentes de subsistemas. Siempre se parte desde un sistema simple que funcionaba, siendo que nunca puede hacerce uno complejo de cero y parchearlo para que funcione.
+
+3.Parte de, y, es un. La primera siendo estructura de clases y la segunda una estructura de objetos.
+
+4 y 5.Se puede lograr con la descomposicion Algoritmica y Orientada a Objetos.
+
+6.La descomposicion algoritmica descompone en pasos logicos un problema ordenandolo en una secuencia estructurada donde termina por representar el dominio del problema. Y su descomposicion orientada a objetos lo que hace es ver las jerarquias de sus partes, por ejemplo viendo que objeto es parte de que otro objeto marcando bien sus jerarquias.
+
+7.La abstraccion es el metodo por el cual rescatamos o visibilizamos las caracteristicas esenciales de un objeto, proporcionando fronteras conceptuales nitidamente definidas respecto a la perspectiva del espectador.
+
+8.La jerarquia es basicamente una clasificacion o ordenacion de abstracciones.
+
+9.Puede ser considerado tanto un desarrollo evolutivo como revolucionario en el contexto de la historia de la programación. Es evolutivo porque se basa en conceptos previos de programación y los extiende para proporcionar una forma más natural y eficiente de modelar la realidad en el código. Pero también es revolucionario porque cambió la forma en que los desarrolladores piensan sobre el diseño y la estructura del software, introduciendo la encapsulación, la herencia y el polimorfismo.
+
+10.El modelo estatico, El modelo dinámico, El modelo logico y el modelo fisico
+
+11.Puede definirse como el paradigma de programar, creando objetos como instancias de clases para la realizacion de programas informaticos.
+
+12.El diseño orientado a objetos es un proceso de diseño de software centrado en la creacion de sistemas basados en la interaccion de objetos que representan entidades del mundo real y caracterizados por tener atributos y comportamientos _Extendiendo_ los principios de la POO (Encapsulacion, herencia, polimorfismo, y abstraccion).
+
+13.Es la modelacion de un sistema como un grupo de objetos que interactuan entre si, clasificados de acuerdo a dependencia funcional.
+
+14.Objetos, Propiedades, Metodos y Eventos.
+
+15.Tipos, Concurrencia y Persistencia.
+
+16.Se refiere a poder ver las caracteristicas esenciales de un objeto y poder simplificarlo para explicarlo o expresar sus fronteras o limites en objetos. Si se observara un vehiculo, lo primero que se ve es el mismo vehiculo, al abstraer mas vemos las ruedas, las puertas y las ventanas, todos objetos que son parte de el vehiculo.
+
+17.Este oculta los detalles de implementacion de un objeto, sirve para separar la interfaz contractual de una abstraccion y su implantacion.
+
+18.Es la propiedad de un sistema descompuesto en un conjunto de modulos cohesivos y debilmente acoplados.
+
+19.Ordenacion de abstracciones.
+
+20.Puesta en vigor de la clase de los objetos, logrando que los objetos de distintos tipos no puedan intercambiarse, o como mucho puedan de manera muy restringida.
+
+21.Es lo que permite que diferentes objetos actuen al mismo tiempo, distinguiendo un objeto activo de uno que no esta activo.
+
+22.Propiedad de un objeto por la cual este sigue existiendo despues de que su creador deja de existir.
+
+23.Identidad, Estado y Comportamiento, la primera es como un nombre que lo distingue de otro objeto aunque tengan el mismo estado, la segunda es el conjunto de valores del objeto en un momento dado capturando las propiedades que puedan cambiar a lo largo del tiempo, y la tercera siendo los metodos de un objeto que definen su comportamiento y su interaccion con otros objetos y su respuesta a ventos.
+
+24 y 25.Es aquel que utiliza los servicios o metodos proporcionados por otro objeto, que en este caso seria el objeto servidor para realizar una tarea especifica, y el objeto servidor seria este que posee los metodos para la realizacion de dicha accion (Un metodo para manejar un registro en una base de datos o incluso autenticacion con algun servicio).
+
+26.Denomina al modelo contractual de programación como un enfoque que define las interacciones entre los objetos en términos de contratos.
+
+27.La vista exterior de cada objeto establece un contrato que otros objetos pueden esperar que se cumpla y que debe ser llevado a cabo por la vista interior del propio objeto, a menudo con la colaboración de otros objetos.
+
+28 y 29.Se denomina 'Protocolo', lo que incluye un conjunto de operaiones que otros clientes pueden realizar sobre el objeto en cuestion abarcando las propiedades dinamicas como estaticas del objeto. Este protocolo define la interfaz pública a través de la cual los objetos interactúan entre sí en un sistema orientado a objetos.
+
+30.Cuando decimos que un concepto central de la idea de abstracción es el de invariancia, nos referimos a las propiedades o características que permanecen constantes en diferentes instancias o contextos de un concepto. 

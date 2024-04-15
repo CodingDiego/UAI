@@ -1,0 +1,131 @@
+/Preguntas/
+
+1.  Un dato es una representación simbólica de un hecho, objeto, idea, entre otros, que por sí solo no proporciona un significado relevante. Por otro lado, la información es un conjunto de datos procesados y organizados que proporcionan un significado y valor para el receptor.
+
+2.  Diferenciamos los datos de la información porque los datos son la materia prima que se utiliza para generar información. Los datos se convierten en información cuando se procesan, interpretan y organizan de manera que tengan un significado y valor para el usuario.
+
+3.  Algunos atributos de la información incluyen su relevancia (pertinencia para la tarea o decisión en cuestión), precisión (grado de exactitud y corrección), completitud (grado en que la información es completa), confiabilidad (grado en que la información es confiable), oportunidad (disponibilidad de la información cuando se necesita) y presentación (forma en que se presenta la información).
+
+4.  La definición cuantitativa de la información se refiere a la medición numérica o estadística de los datos, mientras que la definición cualitativa se refiere a la descripción o caracterización de los datos. La diferencia radica en que la información cuantitativa puede ser medida y expresada numéricamente, mientras que la información cualitativa se describe mediante características y atributos no numéricos.
+
+5.  La Teoría General de Sistemas fue desarrollada por el biólogo Ludwig von Bertalanffy en la década de 1930. Esta teoría se desarrolló como una respuesta a la necesidad de un enfoque más integrado y global para entender y estudiar los sistemas complejos.
+
+6.  Los conceptos de sistemas son importantes en el análisis y diseño de sistemas de información porque proporcionan un marco para entender y organizar la complejidad de los sistemas de información. Ayudan a identificar y definir los componentes del sistema, sus interacciones y su funcionamiento global.
+
+7.  Determinar los límites en los sistemas de información es difícil porque los sistemas de información interactúan con otros sistemas y procesos dentro de una organización. Además, los sistemas de información evolucionan y cambian con el tiempo, lo que puede hacer que los límites sean fluidos y cambiantes.
+
+8.  El concepto de sistema cerrado es importante porque proporciona un modelo idealizado que puede ser útil para el análisis y la comprensión de los sistemas. Sin embargo, en la práctica, la mayoría de los sistemas son abiertos en algún grado.
+
+9.  Un sistema de soporte de decisiones no debería tomar decisiones porque su función principal es proporcionar información y análisis que ayuden a los humanos a tomar decisiones. Las decisiones finales deben ser tomadas por humanos debido a la necesidad de juicio, experiencia y comprensión del contexto.
+
+10.  Para que un sistema de soporte de decisiones pudiera tomar decisiones, necesitaría incorporar capacidades de inteligencia artificial y aprendizaje automático para permitirle aprender de la experiencia, adaptarse a nuevas situaciones y tomar decisiones basadas en un conjunto de reglas o algoritmos.
+
+11.  La descomposición funcional en un sistema se refiere a la división de un sistema en sus componentes o funciones más pequeñas. Esto permite un análisis más detallado de cada componente y facilita la comprensión del funcionamiento global del sistema.
+
+12.  Algunas características de los sistemas incluyen su estructura (la forma en que sus componentes están organizados y relacionados), su comportamiento (la forma en que el sistema opera o responde a las entradas), su interconexión (la forma en que los componentes del sistema interactúan entre sí) y su propósito o función (lo que el sistema está diseñado para hacer).
+
+/Ejercicios /
+1:Arreglos,Mapas y Listas Enlazadas
+
+
+2.Se transforman en información mediante el análisis y la interpretación de los datos. Esto puede implicar la 
+combinación de datos de diferentes estructuras, la aplicación de algoritmos de procesamiento y análisis de datos, y la presentación de la  información de una manera que sea fácil de entender y utilizar.
+
+
+3.Ejemplos de los atributos de la información en un sistema de información real:
+a. Objetivo: el objetivo de un sistema de información puede ser proporcionar información para la toma de decisiones, el seguimiento de 
+procesos, la gestión de recursos, etc.
+b. Forma de representación: la información puede ser representada de diferentes maneras, como texto, gráficos, tablas, imágenes, etc.
+c. Frecuencia: la frecuencia con la que se actualiza la información puede variar, desde actualizaciones en tiempo real hasta actualizaciones 
+diarias, semanales, mensuales, etc.
+d. Redundancia: la redundancia en la información puede ser beneficiosa para garantizar la integridad y la disponibilidad de los datos en caso 
+de fallos del sistema o pérdidas de datos.
+e. Costo: el costo de la información puede variar en función de la cantidad de datos almacenados, la complejidad del sistema, el tipo de 
+información proporcionada, etc.
+f. Valor: el valor de la información depende de su relevancia, precisión y utilidad para los usuarios del sistema.
+g. Densidad: la densidad de la información se refiere a la cantidad de información disponible en relación con la cantidad de espacio de almacenamiento disponible en el sistema.
+
+
+4.El acoplamiento se refiere al grado de interdependencia que tienen los componentes de un sistema, mientras que la cohesión se refiere al 
+grado en que los componentes de un sistema trabajan juntos para lograr un objetivo común. Un ejemplo de acoplamiento sería una empresa en la 
+que el departamento de ventas depende del departamento de producción para obtener productos que vender. Un ejemplo de cohesión sería un equipo 
+de fútbol, en el que cada jugador tiene un papel específico en el campo y trabaja junto con los demás para marcar goles.
+
+
+5.Ejemplos de cuatro definiciones diferentes de sistemas son: sistemas físicos (como un automóvil), sistemas biológicos (como un ecosistema), 
+sistemas sociales (como una organización gubernamental) y sistemas de información (como un sistema de gestión de inventario).
+
+
+6.)Ejemplos de sistemas abiertos son: un ecosistema, un organismo vivo, una empresa en la que los clientes y proveedores interactúan con la 
+organización. Ejemplos de sistemas cerrados son: una bombilla, una pieza de metal, una computadora que está apagada y desconectada de todo.
+
+
+7.)A.Ejemplos de sistemas hechos por el hombre que no son automatizados son: un negocio familiar, una banda musical, un grupo de amigos que 
+juega fútbol juntos.
+B. Ejemplos de sistemas no automatizados que se podrían automatizar en el corto plazo son: un restaurante que utiliza un menú impreso en lugar 
+de un sistema de pedidos automatizado, una oficina que utiliza papel y lápiz en lugar de una herramienta de gestión de tareas en línea, una 
+tienda que utiliza una caja registradora en lugar de un sistema de punto de venta automatizado.
+
+
+8)Un ejemplo de un sistema automatizado es un sistema de reservas de vuelos en línea. La entrada sería la información proporcionada por el 
+usuario, como la fecha y la hora del vuelo y el número de pasajeros. El proceso implicaría verificar la disponibilidad de los vuelos, reservar 
+los asientos y calcular el precio del billete. La salida sería la confirmación de la reserva y la información del billete. El objetivo del 
+sistema es permitir a los usuarios reservar vuelos de manera fácil y eficiente.
+
+
+9)A.Ejemplos de sistemas naturales físicos y vivientes son: el sistema solar, un río, una célula.
+B.Ejemplos de sistemas artificiales automatizados y no automatizados son: un automóvil, un reloj de pared, una fábrica que utiliza robots para 
+fabricar productos.
+
+
+10)A. Un ejemplo de un sistema en línea sería un sistema de reservas de cine en línea, donde los usuarios pueden reservar entradas para 
+películas desde su computadora o teléfono móvil.
+B. Un ejemplo de un sistema en tiempo real sería un sistema de control de tráfico aéreo, que procesa información en tiempo real sobre la 
+posición de los aviones y los guía de manera segura a través del espacio aéreo.
+C. Un ejemplo de un sistema basado en el conocimiento sería un asistente virtual en línea que utiliza inteligencia artificial para responder a 
+las preguntas de los usuarios y proporcionar recomendaciones personalizadas.
+
+
+11)A. Evaluación de alumnos:
+Entrada: resultados de exámenes, trabajos y otras tareas escolares de los alumnos.
+Proceso: revisión y análisis de los resultados, cálculo de promedios, asignación de notas y elaboración de informes de evaluación.
+Salida: informe de evaluación del alumno.
+B. Facturación automatizada de un restaurante:
+Entrada: órdenes de los clientes.
+Proceso: cálculo del costo de los pedidos, registro de los pagos y emisión de facturas.
+Salida: facturas y comprobantes de pago.
+
+
+12)A. Subsistemas de una computadora:
+Unidad central de procesamiento (CPU)
+Memoria RAM
+Disco duro
+Tarjeta madre
+Tarjeta de video
+Tarjeta de sonido
+Dispositivos de entrada (teclado, mouse, etc.)
+Dispositivos de salida (monitor, impresora, etc.)
+B. Los límites e interfaces entre los subsistemas de una computadora dependen de la arquitectura de hardware y software específica. Por 
+ejemplo, la CPU es el "cerebro" de la computadora que realiza todas las operaciones y se comunica con la memoria RAM para acceder a los datos 
+necesarios. La tarjeta madre es el componente principal que conecta todos los demás componentes y permite la transferencia de datos entre 
+ellos.
+
+
+13)a.
+I. Sistema de procesamiento de datos: es probable que haya un sistema de registro y gestión de datos de los alumnos, incluyendo notas, 
+asistencias, cuotas, etc.
+II. Sistema de información gerencial: el personal directivo puede utilizar un sistema de información gerencial para monitorear el desempeño 
+académico de los estudiantes, la asistencia y el rendimiento financiero del colegio.
+III. Sistema de apoyo a la toma de decisiones: el personal directivo también puede utilizar herramientas de análisis de datos para tomar 
+decisiones informadas sobre la gestión y el crecimiento del colegio.
+b.
+I. No hay personas específicas mencionadas en este caso para el subsistema correspondiente a la creación del nivel de educación inicial.
+II. El personal docente y el personal de administración pueden estar involucrados en la recopilación y registro de las inasistencias y notas 
+de los alumnos.
+III. El personal docente y el personal directivo pueden estar involucrados en la organización y realización de las reuniones con los padres de 
+los alumnos con notas aplazadas.
+IV. Los porteros y el personal de limpieza se encargan de la limpieza del edificio.
+V. El personal de administración y el dueño del colegio se encargan de la liquidación de los sueldos del personal.
+VI. El personal de administración se encarga de la cobranza de las cuotas de los alumnos.
+VII. El personal directivo y el dueño del colegio pueden estar involucrados en la selección y contratación de nuevos profesores.
+VIII. El personal directivo y el dueño del colegio pueden estar involucrados en la decisión de la ampliación del edificio.
