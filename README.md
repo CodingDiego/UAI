@@ -16,4 +16,4 @@ Este repositorio contiene los siguientes cursos, cada uno con su respectivo prof
 
 ## [Tecnologia de las Comunicacions](https://github.com/CodingDiego/UAI/tree/main/Tecnologia%20de%20las%20Comunicaciones)
 
--  **Profesor** Argayo Hernán Eduardo Benjamín
+-  **Profesor:** Argayo Hernán Eduardo Benjamín
