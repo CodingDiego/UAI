@@ -49,7 +49,7 @@
 
 # Teorema de Fourier
 
-    Toda señal periodica se puede considerar formada por la suma de infinitos senos y cosenos
+    Toda señal periodica se puede considerar formada por la suma de infinitos senos y cosenos.
     [Formula](image.png)
     En el caso particular de un onda cuadrada setiene la fundamental y las armonicas impares.
     [Formula de onda cuadrada](image-1.png)
