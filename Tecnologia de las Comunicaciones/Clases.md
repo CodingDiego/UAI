@@ -50,12 +50,12 @@
 # Teorema de Fourier
 
     Toda señal periodica se puede considerar formada por la suma de infinitos senos y cosenos
-    ![Formula](image.png)
+    [Formula](image.png)
     En el caso particular de un onda cuadrada setiene la fundamental y las armonicas impares.
-    ![Formula de onda cuadrada](image-1.png)
+    [Formula de onda cuadrada](image-1.png)
 
 ## Filtro
 
     Que es? Dispositivo que deja pasar un rango de componentes de frecuencia y anula el resto
-    ![Filtro](image-2.png)
-    ![Tipos  de Filtro](image-3.png)  El primer  filtro hace  que pase todo lo que este encima  anulando todo lo  que esta por  debajo, el segundo, pasa bajo, cumple la funcion opuesta, anulando todo lo alto y dejando pasar todo lo alto, el tercero, pasa banda, este tiene limites altos y bajos para que pase una frecuencia entre ciertos limites.
+    [Filtro](image-2.png)
+    [Tipos  de Filtro](image-3.png)  El primer  filtro hace  que pase todo lo que este encima  anulando todo lo  que esta por  debajo, el segundo, pasa bajo, cumple la funcion opuesta, anulando todo lo alto y dejando pasar todo lo alto, el tercero, pasa banda, este tiene limites altos y bajos para que pase una frecuencia entre ciertos limites.
